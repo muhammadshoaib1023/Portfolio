@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" rx="28" fill="#eef3f7"/><rect width="1200" height="82" fill="#0b2039"/>
+<text x="55" y="52" fill="white" font-family="Arial" font-size="24" font-weight="700">STUDENT RESULT PORTAL</text>
+<rect x="120" y="145" width="960" height="105" rx="16" fill="white" stroke="#dce3e9"/><text x="165" y="185" fill="#68798a" font-family="Arial" font-size="14">ENTER ROLL NUMBER</text><rect x="165" y="202" width="570" height="36" rx="6" fill="#f6f8fa"/><text x="185" y="226" fill="#9aa6b4" font-family="Arial" font-size="14">923100</text><rect x="760" y="202" width="250" height="36" rx="6" fill="#185b9d"/><text x="825" y="226" fill="white" font-family="Arial" font-size="14" font-weight="700">CHECK RESULT</text>
+<rect x="120" y="290" width="960" height="290" rx="18" fill="white" stroke="#d6a83d" stroke-width="3"/>
+<rect x="120" y="290" width="960" height="95" rx="18" fill="#0b2039"/><text x="160" y="330" fill="#d6a83d" font-family="Arial" font-size="13" font-weight="700">RESULT FOUND</text><text x="160" y="360" fill="white" font-family="Arial" font-size="26" font-weight="700">ABID ULLAH</text><text x="900" y="350" fill="#d6a83d" font-family="Arial" font-size="29" font-weight="700">558/600</text>
+<text x="165" y="430" fill="#68798a" font-family="Arial" font-size="13">ROLL NUMBER</text><text x="165" y="455" fill="#182b40" font-family="Arial" font-size="20" font-weight="700">923240</text>
+<text x="420" y="430" fill="#68798a" font-family="Arial" font-size="13">TOTAL MARKS</text><text x="420" y="455" fill="#182b40" font-family="Arial" font-size="20" font-weight="700">600</text>
+<text x="675" y="430" fill="#68798a" font-family="Arial" font-size="13">OBTAINED</text><text x="675" y="455" fill="#182b40" font-family="Arial" font-size="20" font-weight="700">558</text>
+<text x="165" y="520" fill="#68798a" font-family="Arial" font-size="13">PERCENTAGE</text><text x="165" y="545" fill="#185b9d" font-family="Arial" font-size="20" font-weight="700">93.00%</text>
+</svg>
